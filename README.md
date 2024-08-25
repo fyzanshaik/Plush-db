@@ -1,1 +1,5 @@
-## This is my attempt at learning database internals and create my own Database implementation
+# Plush Database
+
+## A database implementation using B+ trees in Golang
+
+This starts my own implementation of understanding database internals by attempting to create a simple database storage 
